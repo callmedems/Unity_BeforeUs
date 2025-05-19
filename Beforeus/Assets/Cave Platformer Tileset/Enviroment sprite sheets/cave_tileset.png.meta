@@ -389,7 +389,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 16
     mipBias: 0
     wrapU: 1
@@ -403,7 +403,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -427,7 +427,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -465,2553 +465,2553 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileset-cave_0
+      name: cave_tileset_0
       rect:
         serializedVersion: 2
         x: 0
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
+      spriteID: 875e5e446b6883141a610120f1810e17
+      internalID: 1917178004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_1
+      name: cave_tileset_1
       rect:
         serializedVersion: 2
         x: 16
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
+      spriteID: 1c70d453d39837a4eb38540b1622a534
+      internalID: 186109655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_2
+      name: cave_tileset_2
       rect:
         serializedVersion: 2
         x: 32
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
+      spriteID: c79da12f6adc4d44dbe23fba3974b07b
+      internalID: -646473536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_3
+      name: cave_tileset_3
       rect:
         serializedVersion: 2
         x: 48
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
+      spriteID: 1689cc537bdc75a4183431eb99033d9d
+      internalID: 2003166574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_4
+      name: cave_tileset_4
       rect:
         serializedVersion: 2
         x: 64
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
+      spriteID: 658eb8d4db537fa49ba6a0b7b9db30fe
+      internalID: 429501757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_5
+      name: cave_tileset_5
       rect:
         serializedVersion: 2
         x: 80
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
+      spriteID: b8eac03506b69f7408098ffc157c316c
+      internalID: -125583082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_6
+      name: cave_tileset_6
       rect:
         serializedVersion: 2
         x: 96
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
+      spriteID: 92d7a869451916442804e8515316a88f
+      internalID: 29278262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_7
+      name: cave_tileset_7
       rect:
         serializedVersion: 2
         x: 112
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
+      spriteID: 11f97c4a7f6d10c4e96afaf87bb5e95c
+      internalID: -886348101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_8
+      name: cave_tileset_8
       rect:
         serializedVersion: 2
         x: 0
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
+      spriteID: e79e7387e21baa04686fbecd1cb86cd0
+      internalID: -1690461545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_9
+      name: cave_tileset_9
       rect:
         serializedVersion: 2
         x: 16
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
+      spriteID: 687e1664bd51fff468dfc523ed8c4a9c
+      internalID: -1547546251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_10
+      name: cave_tileset_10
       rect:
         serializedVersion: 2
         x: 32
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
+      spriteID: 90b0cba5e038f914bab09fc07a9d86e4
+      internalID: -823818973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_11
+      name: cave_tileset_11
       rect:
         serializedVersion: 2
         x: 48
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
+      spriteID: 2f60bac575cdaf841b8e438cc7dfc057
+      internalID: -687814188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_12
+      name: cave_tileset_12
       rect:
         serializedVersion: 2
         x: 64
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
+      spriteID: 92cf154703bddfd43846838550bb3b27
+      internalID: -1708212737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_13
+      name: cave_tileset_13
       rect:
         serializedVersion: 2
         x: 80
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
+      spriteID: bbef077fec22e5c4fb97f278de70fbbd
+      internalID: 763670711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_14
+      name: cave_tileset_14
       rect:
         serializedVersion: 2
         x: 96
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
+      spriteID: 3a6ea9a6064044b41b190129f989ca7e
+      internalID: 1884176221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_15
+      name: cave_tileset_15
       rect:
         serializedVersion: 2
         x: 112
         y: 208
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
+      spriteID: a065384d444fe7746a46cdae494479a9
+      internalID: -2026425316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_16
+      name: cave_tileset_16
       rect:
         serializedVersion: 2
         x: 0
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 04305410000000000800000000000000
-      internalID: 21300032
+      spriteID: 6ab3f39309736c64b822d3a91214389f
+      internalID: -1076238808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_17
+      name: cave_tileset_17
       rect:
         serializedVersion: 2
         x: 16
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24305410000000000800000000000000
-      internalID: 21300034
+      spriteID: 9365d1607974f444aa6fa3a7b74774f1
+      internalID: -1285340901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_18
+      name: cave_tileset_18
       rect:
         serializedVersion: 2
         x: 32
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 44305410000000000800000000000000
-      internalID: 21300036
+      spriteID: 7a65fc14ce6a9b543bf05e27a5bf8a8c
+      internalID: -62476190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_19
+      name: cave_tileset_19
       rect:
         serializedVersion: 2
         x: 48
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 64305410000000000800000000000000
-      internalID: 21300038
+      spriteID: 9e9c70cd02303d548b1b7a36b9405569
+      internalID: -738111954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_20
+      name: cave_tileset_20
       rect:
         serializedVersion: 2
         x: 64
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 84305410000000000800000000000000
-      internalID: 21300040
+      spriteID: 310d9c63cf9f62f488170f6dddf74bba
+      internalID: 1140855558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_21
+      name: cave_tileset_21
       rect:
         serializedVersion: 2
         x: 80
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
+      spriteID: c1b54e295dcfc0e46a36c5043beba21c
+      internalID: -57629612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_22
+      name: cave_tileset_22
       rect:
         serializedVersion: 2
         x: 96
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
+      spriteID: f13403733b3a25542af38bbedc52b00f
+      internalID: -411421353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_23
+      name: cave_tileset_23
       rect:
         serializedVersion: 2
         x: 112
         y: 192
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
+      spriteID: 6b7fc55f75be3db46a5471c74c5fcf8a
+      internalID: -1609032045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_24
+      name: cave_tileset_24
       rect:
         serializedVersion: 2
         x: 0
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
+      spriteID: a581195e196479647848b792c4f73a97
+      internalID: -1327758868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_25
+      name: cave_tileset_25
       rect:
         serializedVersion: 2
         x: 16
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 25305410000000000800000000000000
-      internalID: 21300050
+      spriteID: b59ba9034cd41f241a3ee8c8f50c0073
+      internalID: -689159815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_26
+      name: cave_tileset_26
       rect:
         serializedVersion: 2
         x: 32
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 45305410000000000800000000000000
-      internalID: 21300052
+      spriteID: 786c67179fbb5fb4daa3222713e28299
+      internalID: -243976934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_27
+      name: cave_tileset_27
       rect:
         serializedVersion: 2
         x: 48
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 65305410000000000800000000000000
-      internalID: 21300054
+      spriteID: 1d429699a0d23df4db4dc8ea68722af4
+      internalID: -779909736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_28
+      name: cave_tileset_28
       rect:
         serializedVersion: 2
         x: 64
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 85305410000000000800000000000000
-      internalID: 21300056
+      spriteID: 4ed5a8ccd4cd5e640a5160cb773b6195
+      internalID: 2085796630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_29
+      name: cave_tileset_29
       rect:
         serializedVersion: 2
         x: 80
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a5305410000000000800000000000000
-      internalID: 21300058
+      spriteID: b79419421ba98fb4386d6e793f041d80
+      internalID: 1014636226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_30
+      name: cave_tileset_30
       rect:
         serializedVersion: 2
         x: 96
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c5305410000000000800000000000000
-      internalID: 21300060
+      spriteID: 27ef39445f8218b47b5b41d224f2b8fe
+      internalID: -1314898058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_31
+      name: cave_tileset_31
       rect:
         serializedVersion: 2
         x: 112
         y: 176
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e5305410000000000800000000000000
-      internalID: 21300062
+      spriteID: e19b38eebe22cdc4f9f4dc6533324d25
+      internalID: 1836392109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_32
+      name: cave_tileset_32
       rect:
         serializedVersion: 2
         x: 0
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 06305410000000000800000000000000
-      internalID: 21300064
+      spriteID: 53454a4ffcd3d5441946074e8800d145
+      internalID: 1891099651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_33
+      name: cave_tileset_33
       rect:
         serializedVersion: 2
         x: 16
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 26305410000000000800000000000000
-      internalID: 21300066
+      spriteID: a53883963276a5740b7c42d916df38af
+      internalID: -591369080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_34
+      name: cave_tileset_34
       rect:
         serializedVersion: 2
         x: 32
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46305410000000000800000000000000
-      internalID: 21300068
+      spriteID: 0107eb074d3b59e4385d747679be9653
+      internalID: -540999588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_35
+      name: cave_tileset_35
       rect:
         serializedVersion: 2
         x: 48
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 66305410000000000800000000000000
-      internalID: 21300070
+      spriteID: e29d97bdb07541941bb54b4501fdc171
+      internalID: 233843192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_36
+      name: cave_tileset_36
       rect:
         serializedVersion: 2
         x: 64
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 86305410000000000800000000000000
-      internalID: 21300072
+      spriteID: f1ff3e22f741a8d409c430b8bafe81e7
+      internalID: -1269531561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_37
+      name: cave_tileset_37
       rect:
         serializedVersion: 2
         x: 80
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a6305410000000000800000000000000
-      internalID: 21300074
+      spriteID: b412e6bef9907ad48a3a0d2a74495c83
+      internalID: -449331297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_38
+      name: cave_tileset_38
       rect:
         serializedVersion: 2
         x: 96
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c6305410000000000800000000000000
-      internalID: 21300076
+      spriteID: 526ef2e9da2792a4683f693c563793fc
+      internalID: 1104579447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_39
+      name: cave_tileset_39
       rect:
         serializedVersion: 2
         x: 112
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e6305410000000000800000000000000
-      internalID: 21300078
+      spriteID: 3f7adbf88a502e641b7bf6a3dbfefd97
+      internalID: -982959897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_40
+      name: cave_tileset_40
       rect:
         serializedVersion: 2
         x: 0
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 07305410000000000800000000000000
-      internalID: 21300080
+      spriteID: 20778bc48c0b05a43bca6bd77627bca4
+      internalID: 806663074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_41
+      name: cave_tileset_41
       rect:
         serializedVersion: 2
         x: 16
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 27305410000000000800000000000000
-      internalID: 21300082
+      spriteID: 828ec555158331146b44b43f38a671ac
+      internalID: -314830060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_42
+      name: cave_tileset_42
       rect:
         serializedVersion: 2
         x: 32
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47305410000000000800000000000000
-      internalID: 21300084
+      spriteID: 920f58b7f6c596e49a6c954902680c33
+      internalID: 1966035967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_43
+      name: cave_tileset_43
       rect:
         serializedVersion: 2
         x: 48
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67305410000000000800000000000000
-      internalID: 21300086
+      spriteID: c0b4fbc7122acc64a844b4daceaab790
+      internalID: 2020843803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_44
+      name: cave_tileset_44
       rect:
         serializedVersion: 2
         x: 64
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 87305410000000000800000000000000
-      internalID: 21300088
+      spriteID: 2304f847ba8114746b4c13efd7b01d85
+      internalID: -1351648478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_45
+      name: cave_tileset_45
       rect:
         serializedVersion: 2
         x: 80
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a7305410000000000800000000000000
-      internalID: 21300090
+      spriteID: a3840ae731b304b439b88913f016967a
+      internalID: -1965021847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_46
+      name: cave_tileset_46
       rect:
         serializedVersion: 2
         x: 96
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c7305410000000000800000000000000
-      internalID: 21300092
+      spriteID: 7fa4bdd9723b8e043ac891593859b5ac
+      internalID: 1262257424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_47
+      name: cave_tileset_47
       rect:
         serializedVersion: 2
         x: 112
         y: 144
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e7305410000000000800000000000000
-      internalID: 21300094
+      spriteID: 04682795726cbfb44b241bc3470c9e1e
+      internalID: 206118711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_48
+      name: cave_tileset_48
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08305410000000000800000000000000
-      internalID: 21300096
+      spriteID: 15ce797535be3374bbc585980c8c6aee
+      internalID: 982574633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_49
+      name: cave_tileset_49
       rect:
         serializedVersion: 2
         x: 16
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28305410000000000800000000000000
-      internalID: 21300098
+      spriteID: c6fb31d937997ef449f7f246f9363ef2
+      internalID: 1966750196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_50
+      name: cave_tileset_50
       rect:
         serializedVersion: 2
         x: 32
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 48305410000000000800000000000000
-      internalID: 21300100
+      spriteID: 24ec6fc9152969e418978fc80d062bc5
+      internalID: -18472218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_51
+      name: cave_tileset_51
       rect:
         serializedVersion: 2
         x: 48
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 68305410000000000800000000000000
-      internalID: 21300102
+      spriteID: 534941944fd63c348a342a982efe3836
+      internalID: 426670455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_52
+      name: cave_tileset_52
       rect:
         serializedVersion: 2
         x: 64
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 88305410000000000800000000000000
-      internalID: 21300104
+      spriteID: 3d5903322ccb9d24082047545064c3ff
+      internalID: -1921737160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_53
+      name: cave_tileset_53
       rect:
         serializedVersion: 2
         x: 80
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8305410000000000800000000000000
-      internalID: 21300106
+      spriteID: cf81a6d14a92b694ab4e502feb96bee5
+      internalID: 105387764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_54
+      name: cave_tileset_54
       rect:
         serializedVersion: 2
         x: 96
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c8305410000000000800000000000000
-      internalID: 21300108
+      spriteID: 68f33a72173995e48b5babad20a8041e
+      internalID: -842478195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_55
+      name: cave_tileset_55
       rect:
         serializedVersion: 2
         x: 112
         y: 128
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e8305410000000000800000000000000
-      internalID: 21300110
+      spriteID: 12690dff9c367704892a9fb8c5962a63
+      internalID: -985223488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_56
+      name: cave_tileset_56
       rect:
         serializedVersion: 2
         x: 0
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 09305410000000000800000000000000
-      internalID: 21300112
+      spriteID: fb9044643f631d449a1c863aeacaa6b3
+      internalID: -2088580229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_57
+      name: cave_tileset_57
       rect:
         serializedVersion: 2
         x: 16
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 29305410000000000800000000000000
-      internalID: 21300114
+      spriteID: b7cccf8e13cfc61418a59ab36ca742e2
+      internalID: -24981235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_58
+      name: cave_tileset_58
       rect:
         serializedVersion: 2
         x: 32
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 49305410000000000800000000000000
-      internalID: 21300116
+      spriteID: d7d563814f9fc504eb746508b117e67b
+      internalID: -1643145584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_59
+      name: cave_tileset_59
       rect:
         serializedVersion: 2
         x: 48
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 69305410000000000800000000000000
-      internalID: 21300118
+      spriteID: 932795ee3e46bed4093d1477f1dc870d
+      internalID: 762251993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_60
+      name: cave_tileset_60
       rect:
         serializedVersion: 2
         x: 64
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 89305410000000000800000000000000
-      internalID: 21300120
+      spriteID: 6f62b2f7057441442a6da32bab6acfb7
+      internalID: 1993534942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_61
+      name: cave_tileset_61
       rect:
         serializedVersion: 2
         x: 80
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9305410000000000800000000000000
-      internalID: 21300122
+      spriteID: 7224fa110fd49314fa377e9d152e2593
+      internalID: -304344847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_62
+      name: cave_tileset_62
       rect:
         serializedVersion: 2
         x: 96
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c9305410000000000800000000000000
-      internalID: 21300124
+      spriteID: e4967d4aad9b26f4b833e90a542e2f52
+      internalID: 1523292302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_63
+      name: cave_tileset_63
       rect:
         serializedVersion: 2
         x: 112
         y: 112
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9305410000000000800000000000000
-      internalID: 21300126
+      spriteID: c5e377275eec6f84092b421f47d2e77b
+      internalID: 1610314133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_64
+      name: cave_tileset_64
       rect:
         serializedVersion: 2
         x: 0
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0a305410000000000800000000000000
-      internalID: 21300128
+      spriteID: 7773e66238197a648be2955331793558
+      internalID: 1384263043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_65
+      name: cave_tileset_65
       rect:
         serializedVersion: 2
         x: 16
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2a305410000000000800000000000000
-      internalID: 21300130
+      spriteID: 87ecafd87dedf8d4a8110781d2f39652
+      internalID: 2139446616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_66
+      name: cave_tileset_66
       rect:
         serializedVersion: 2
         x: 32
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a305410000000000800000000000000
-      internalID: 21300132
+      spriteID: db23fb06b3a2c74468e6adc29bc4774d
+      internalID: 1777627317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_67
+      name: cave_tileset_67
       rect:
         serializedVersion: 2
         x: 48
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6a305410000000000800000000000000
-      internalID: 21300134
+      spriteID: ba3a2727afecc9343845c158ed289ef3
+      internalID: -534873228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_68
+      name: cave_tileset_68
       rect:
         serializedVersion: 2
         x: 64
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8a305410000000000800000000000000
-      internalID: 21300136
+      spriteID: 93e02a4a26ca6e344a49767a2477dd5a
+      internalID: -959175759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_69
+      name: cave_tileset_69
       rect:
         serializedVersion: 2
         x: 80
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa305410000000000800000000000000
-      internalID: 21300138
+      spriteID: 89e39592e8a138e4db799467e33314b3
+      internalID: -2055485799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_70
+      name: cave_tileset_70
       rect:
         serializedVersion: 2
         x: 96
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ca305410000000000800000000000000
-      internalID: 21300140
+      spriteID: 1c9467010794ea247981875b35196797
+      internalID: 2092111333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_71
+      name: cave_tileset_71
       rect:
         serializedVersion: 2
         x: 112
         y: 96
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ea305410000000000800000000000000
-      internalID: 21300142
+      spriteID: 1175acc22754bf64b9a80c191d0c2866
+      internalID: 1347294409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_72
+      name: cave_tileset_72
       rect:
         serializedVersion: 2
         x: 0
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0b305410000000000800000000000000
-      internalID: 21300144
+      spriteID: c29d89d2449ce6941992bc9d5ad37933
+      internalID: -1080887600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_73
+      name: cave_tileset_73
       rect:
         serializedVersion: 2
         x: 16
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b305410000000000800000000000000
-      internalID: 21300146
+      spriteID: 652a458261743b040883dacd52e2e23e
+      internalID: 1493163821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_74
+      name: cave_tileset_74
       rect:
         serializedVersion: 2
         x: 32
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4b305410000000000800000000000000
-      internalID: 21300148
+      spriteID: d905254e1145b334ea1ed2a5039957bd
+      internalID: -788138850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_75
+      name: cave_tileset_75
       rect:
         serializedVersion: 2
         x: 48
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b305410000000000800000000000000
-      internalID: 21300150
+      spriteID: 1598acf69e806744186e0e845e0bf3a2
+      internalID: 1849717572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_76
+      name: cave_tileset_76
       rect:
         serializedVersion: 2
         x: 64
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8b305410000000000800000000000000
-      internalID: 21300152
+      spriteID: 4218930e62ea5c7458e388e6be0ed500
+      internalID: 1366367464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_77
+      name: cave_tileset_77
       rect:
         serializedVersion: 2
         x: 80
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ab305410000000000800000000000000
-      internalID: 21300154
+      spriteID: 8f6ad54c7e8e4e04ca821bf65f4d6c5d
+      internalID: -1928310362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_78
+      name: cave_tileset_78
       rect:
         serializedVersion: 2
         x: 96
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cb305410000000000800000000000000
-      internalID: 21300156
+      spriteID: 49598e04f770c534dacaf9a2eb143ea1
+      internalID: -1234322988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_79
+      name: cave_tileset_79
       rect:
         serializedVersion: 2
         x: 112
         y: 80
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb305410000000000800000000000000
-      internalID: 21300158
+      spriteID: 23c16c5e988995a4cbe14b9f9902c93c
+      internalID: -1093129146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_80
+      name: cave_tileset_80
       rect:
         serializedVersion: 2
         x: 0
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0c305410000000000800000000000000
-      internalID: 21300160
+      spriteID: 52aabf00350237a44bf063664de2f27b
+      internalID: -882595342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_81
+      name: cave_tileset_81
       rect:
         serializedVersion: 2
         x: 16
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2c305410000000000800000000000000
-      internalID: 21300162
+      spriteID: 4a1a4700392d40a45af2a45898576c1d
+      internalID: 922201007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_82
+      name: cave_tileset_82
       rect:
         serializedVersion: 2
         x: 32
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c305410000000000800000000000000
-      internalID: 21300164
+      spriteID: 1d86b25076f1e86498e81e3aaab57668
+      internalID: -1226946475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_83
+      name: cave_tileset_83
       rect:
         serializedVersion: 2
         x: 48
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6c305410000000000800000000000000
-      internalID: 21300166
+      spriteID: 264e9f04036627a46b48727c4a5734bb
+      internalID: -1938743872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_84
+      name: cave_tileset_84
       rect:
         serializedVersion: 2
         x: 64
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8c305410000000000800000000000000
-      internalID: 21300168
+      spriteID: 4cc605d166a97c94f97cfd12aae6ae45
+      internalID: -546513573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_85
+      name: cave_tileset_85
       rect:
         serializedVersion: 2
         x: 80
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ac305410000000000800000000000000
-      internalID: 21300170
+      spriteID: ddd8439070fe38244937138f958d4239
+      internalID: 817256147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_86
+      name: cave_tileset_86
       rect:
         serializedVersion: 2
         x: 96
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc305410000000000800000000000000
-      internalID: 21300172
+      spriteID: 4ce3a0b8390c7924fbb3c5e3edf12630
+      internalID: 845187818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_87
+      name: cave_tileset_87
       rect:
         serializedVersion: 2
         x: 112
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec305410000000000800000000000000
-      internalID: 21300174
+      spriteID: 61f25fa116a4921409e784b7bb70a04f
+      internalID: -1950287556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_88
+      name: cave_tileset_88
       rect:
         serializedVersion: 2
         x: 0
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0d305410000000000800000000000000
-      internalID: 21300176
+      spriteID: 58fa81d9635d90447a168022f4e6c9dc
+      internalID: 2052940659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_89
+      name: cave_tileset_89
       rect:
         serializedVersion: 2
         x: 16
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d305410000000000800000000000000
-      internalID: 21300178
+      spriteID: 603240ccc55ee344b900183a881fbc9c
+      internalID: -935462219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_90
+      name: cave_tileset_90
       rect:
         serializedVersion: 2
         x: 32
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4d305410000000000800000000000000
-      internalID: 21300180
+      spriteID: b6fb18ed4288adc4eb0d91ab327b9c87
+      internalID: -1046661602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_91
+      name: cave_tileset_91
       rect:
         serializedVersion: 2
         x: 48
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d305410000000000800000000000000
-      internalID: 21300182
+      spriteID: 3e5efc64131a5f44db9e3f45a4c31906
+      internalID: 1273064173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_92
+      name: cave_tileset_92
       rect:
         serializedVersion: 2
         x: 64
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d305410000000000800000000000000
-      internalID: 21300184
+      spriteID: b7722489c968b1b44bd19cc87610de34
+      internalID: 364076464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_93
+      name: cave_tileset_93
       rect:
         serializedVersion: 2
         x: 80
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ad305410000000000800000000000000
-      internalID: 21300186
+      spriteID: da8c4921ed9ec694c99336b0de7e0f7d
+      internalID: 1701579302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_94
+      name: cave_tileset_94
       rect:
         serializedVersion: 2
         x: 96
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd305410000000000800000000000000
-      internalID: 21300188
+      spriteID: 17a67451fd514864899ff14d72a20ea2
+      internalID: 1197172573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_95
+      name: cave_tileset_95
       rect:
         serializedVersion: 2
         x: 112
         y: 48
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ed305410000000000800000000000000
-      internalID: 21300190
+      spriteID: cede6380d1886674eb25fe8d11bda997
+      internalID: 127667110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_96
+      name: cave_tileset_96
       rect:
         serializedVersion: 2
         x: 0
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0e305410000000000800000000000000
-      internalID: 21300192
+      spriteID: 699ec9a36685e284cbbac6308838bf69
+      internalID: -1005340068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_97
+      name: cave_tileset_97
       rect:
         serializedVersion: 2
         x: 16
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e305410000000000800000000000000
-      internalID: 21300194
+      spriteID: 0f1f1e0fe185e2843991d662d67fd27a
+      internalID: -1604516372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_98
+      name: cave_tileset_98
       rect:
         serializedVersion: 2
         x: 32
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4e305410000000000800000000000000
-      internalID: 21300196
+      spriteID: 811ca9b6561c81f42952ed6dfe7d4836
+      internalID: -136448832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_99
+      name: cave_tileset_99
       rect:
         serializedVersion: 2
         x: 48
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e305410000000000800000000000000
-      internalID: 21300198
+      spriteID: 6653249c98e42f14ca3550bb2d901e2a
+      internalID: -881837255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_100
+      name: cave_tileset_100
       rect:
         serializedVersion: 2
         x: 64
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e305410000000000800000000000000
-      internalID: 21300200
+      spriteID: 0cbfc389264f03c4a9347d77893b1e83
+      internalID: -1814036552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_101
+      name: cave_tileset_101
       rect:
         serializedVersion: 2
         x: 80
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae305410000000000800000000000000
-      internalID: 21300202
+      spriteID: 870eef2260bc26c4d8c49ecc92c46647
+      internalID: -145383386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_102
+      name: cave_tileset_102
       rect:
         serializedVersion: 2
         x: 96
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ce305410000000000800000000000000
-      internalID: 21300204
+      spriteID: d1f207d0b9ae5ee449f8675ab29fac43
+      internalID: -655356739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_103
+      name: cave_tileset_103
       rect:
         serializedVersion: 2
         x: 112
         y: 32
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ee305410000000000800000000000000
-      internalID: 21300206
+      spriteID: 6f68726e3205bab4a8c0bc7e060c4604
+      internalID: 991190263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_104
+      name: cave_tileset_104
       rect:
         serializedVersion: 2
         x: 0
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0f305410000000000800000000000000
-      internalID: 21300208
+      spriteID: 4e9d2e0b5c7d29f43ab7cbcd6c7b4bf2
+      internalID: -499229984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_105
+      name: cave_tileset_105
       rect:
         serializedVersion: 2
         x: 16
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2f305410000000000800000000000000
-      internalID: 21300210
+      spriteID: 319e2b354a5807f4489dcfb9557ea45c
+      internalID: 1463632834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_106
+      name: cave_tileset_106
       rect:
         serializedVersion: 2
         x: 32
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f305410000000000800000000000000
-      internalID: 21300212
+      spriteID: c1c1ec6282d634d4ba4eef84d053574a
+      internalID: 687471070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_107
+      name: cave_tileset_107
       rect:
         serializedVersion: 2
         x: 48
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f305410000000000800000000000000
-      internalID: 21300214
+      spriteID: 905d7cb28bc019a4c97685d4256c754c
+      internalID: 870600611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_108
+      name: cave_tileset_108
       rect:
         serializedVersion: 2
         x: 64
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8f305410000000000800000000000000
-      internalID: 21300216
+      spriteID: ff6ea1219ea77ce4495a224c9b4ffe8d
+      internalID: 1992091703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_109
+      name: cave_tileset_109
       rect:
         serializedVersion: 2
         x: 80
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: af305410000000000800000000000000
-      internalID: 21300218
+      spriteID: 38dd2eacceecb064bab9a35adcda29cc
+      internalID: -62784551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_110
+      name: cave_tileset_110
       rect:
         serializedVersion: 2
         x: 96
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf305410000000000800000000000000
-      internalID: 21300220
+      spriteID: 59b72823f4b066040a1ec31a99f6d8e3
+      internalID: 1477341879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_111
+      name: cave_tileset_111
       rect:
         serializedVersion: 2
         x: 112
         y: 16
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ef305410000000000800000000000000
-      internalID: 21300222
+      spriteID: 4bfe23dbf7bac074a827dd477b97412a
+      internalID: -545593690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_112
+      name: cave_tileset_112
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 00405410000000000800000000000000
-      internalID: 21300224
+      spriteID: 5ed3fa48810a54f46b71bb837f48df0b
+      internalID: 2118531776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_113
+      name: cave_tileset_113
       rect:
         serializedVersion: 2
         x: 16
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 20405410000000000800000000000000
-      internalID: 21300226
+      spriteID: 9bd1c2a7c130c07408b651831fb81a0d
+      internalID: -2060582128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_114
+      name: cave_tileset_114
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40405410000000000800000000000000
-      internalID: 21300228
+      spriteID: 1b3196b25898f2e429bada748e3c1e93
+      internalID: -1876722326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-cave_115
+      name: cave_tileset_115
       rect:
         serializedVersion: 2
         x: 48
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 60405410000000000800000000000000
-      internalID: 21300230
+      spriteID: 69d2bea9d437688429759834d024bc8c
+      internalID: -1361526804
       vertices: []
       indices: 
       edges: []
@@ -3020,7 +3020,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 92c965a5e282b744a9e2f3292031a5b6
     internalID: 0
     vertices: []
     indices: 
@@ -3030,122 +3030,122 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileset-cave_0: 21300000
-      tileset-cave_1: 21300002
-      tileset-cave_10: 21300020
-      tileset-cave_100: 21300200
-      tileset-cave_101: 21300202
-      tileset-cave_102: 21300204
-      tileset-cave_103: 21300206
-      tileset-cave_104: 21300208
-      tileset-cave_105: 21300210
-      tileset-cave_106: 21300212
-      tileset-cave_107: 21300214
-      tileset-cave_108: 21300216
-      tileset-cave_109: 21300218
-      tileset-cave_11: 21300022
-      tileset-cave_110: 21300220
-      tileset-cave_111: 21300222
-      tileset-cave_112: 21300224
-      tileset-cave_113: 21300226
-      tileset-cave_114: 21300228
-      tileset-cave_115: 21300230
-      tileset-cave_12: 21300024
-      tileset-cave_13: 21300026
-      tileset-cave_14: 21300028
-      tileset-cave_15: 21300030
-      tileset-cave_16: 21300032
-      tileset-cave_17: 21300034
-      tileset-cave_18: 21300036
-      tileset-cave_19: 21300038
-      tileset-cave_2: 21300004
-      tileset-cave_20: 21300040
-      tileset-cave_21: 21300042
-      tileset-cave_22: 21300044
-      tileset-cave_23: 21300046
-      tileset-cave_24: 21300048
-      tileset-cave_25: 21300050
-      tileset-cave_26: 21300052
-      tileset-cave_27: 21300054
-      tileset-cave_28: 21300056
-      tileset-cave_29: 21300058
-      tileset-cave_3: 21300006
-      tileset-cave_30: 21300060
-      tileset-cave_31: 21300062
-      tileset-cave_32: 21300064
-      tileset-cave_33: 21300066
-      tileset-cave_34: 21300068
-      tileset-cave_35: 21300070
-      tileset-cave_36: 21300072
-      tileset-cave_37: 21300074
-      tileset-cave_38: 21300076
-      tileset-cave_39: 21300078
-      tileset-cave_4: 21300008
-      tileset-cave_40: 21300080
-      tileset-cave_41: 21300082
-      tileset-cave_42: 21300084
-      tileset-cave_43: 21300086
-      tileset-cave_44: 21300088
-      tileset-cave_45: 21300090
-      tileset-cave_46: 21300092
-      tileset-cave_47: 21300094
-      tileset-cave_48: 21300096
-      tileset-cave_49: 21300098
-      tileset-cave_5: 21300010
-      tileset-cave_50: 21300100
-      tileset-cave_51: 21300102
-      tileset-cave_52: 21300104
-      tileset-cave_53: 21300106
-      tileset-cave_54: 21300108
-      tileset-cave_55: 21300110
-      tileset-cave_56: 21300112
-      tileset-cave_57: 21300114
-      tileset-cave_58: 21300116
-      tileset-cave_59: 21300118
-      tileset-cave_6: 21300012
-      tileset-cave_60: 21300120
-      tileset-cave_61: 21300122
-      tileset-cave_62: 21300124
-      tileset-cave_63: 21300126
-      tileset-cave_64: 21300128
-      tileset-cave_65: 21300130
-      tileset-cave_66: 21300132
-      tileset-cave_67: 21300134
-      tileset-cave_68: 21300136
-      tileset-cave_69: 21300138
-      tileset-cave_7: 21300014
-      tileset-cave_70: 21300140
-      tileset-cave_71: 21300142
-      tileset-cave_72: 21300144
-      tileset-cave_73: 21300146
-      tileset-cave_74: 21300148
-      tileset-cave_75: 21300150
-      tileset-cave_76: 21300152
-      tileset-cave_77: 21300154
-      tileset-cave_78: 21300156
-      tileset-cave_79: 21300158
-      tileset-cave_8: 21300016
-      tileset-cave_80: 21300160
-      tileset-cave_81: 21300162
-      tileset-cave_82: 21300164
-      tileset-cave_83: 21300166
-      tileset-cave_84: 21300168
-      tileset-cave_85: 21300170
-      tileset-cave_86: 21300172
-      tileset-cave_87: 21300174
-      tileset-cave_88: 21300176
-      tileset-cave_89: 21300178
-      tileset-cave_9: 21300018
-      tileset-cave_90: 21300180
-      tileset-cave_91: 21300182
-      tileset-cave_92: 21300184
-      tileset-cave_93: 21300186
-      tileset-cave_94: 21300188
-      tileset-cave_95: 21300190
-      tileset-cave_96: 21300192
-      tileset-cave_97: 21300194
-      tileset-cave_98: 21300196
-      tileset-cave_99: 21300198
+      cave_tileset_0: 1917178004
+      cave_tileset_1: 186109655
+      cave_tileset_10: -823818973
+      cave_tileset_100: -1814036552
+      cave_tileset_101: -145383386
+      cave_tileset_102: -655356739
+      cave_tileset_103: 991190263
+      cave_tileset_104: -499229984
+      cave_tileset_105: 1463632834
+      cave_tileset_106: 687471070
+      cave_tileset_107: 870600611
+      cave_tileset_108: 1992091703
+      cave_tileset_109: -62784551
+      cave_tileset_11: -687814188
+      cave_tileset_110: 1477341879
+      cave_tileset_111: -545593690
+      cave_tileset_112: 2118531776
+      cave_tileset_113: -2060582128
+      cave_tileset_114: -1876722326
+      cave_tileset_115: -1361526804
+      cave_tileset_12: -1708212737
+      cave_tileset_13: 763670711
+      cave_tileset_14: 1884176221
+      cave_tileset_15: -2026425316
+      cave_tileset_16: -1076238808
+      cave_tileset_17: -1285340901
+      cave_tileset_18: -62476190
+      cave_tileset_19: -738111954
+      cave_tileset_2: -646473536
+      cave_tileset_20: 1140855558
+      cave_tileset_21: -57629612
+      cave_tileset_22: -411421353
+      cave_tileset_23: -1609032045
+      cave_tileset_24: -1327758868
+      cave_tileset_25: -689159815
+      cave_tileset_26: -243976934
+      cave_tileset_27: -779909736
+      cave_tileset_28: 2085796630
+      cave_tileset_29: 1014636226
+      cave_tileset_3: 2003166574
+      cave_tileset_30: -1314898058
+      cave_tileset_31: 1836392109
+      cave_tileset_32: 1891099651
+      cave_tileset_33: -591369080
+      cave_tileset_34: -540999588
+      cave_tileset_35: 233843192
+      cave_tileset_36: -1269531561
+      cave_tileset_37: -449331297
+      cave_tileset_38: 1104579447
+      cave_tileset_39: -982959897
+      cave_tileset_4: 429501757
+      cave_tileset_40: 806663074
+      cave_tileset_41: -314830060
+      cave_tileset_42: 1966035967
+      cave_tileset_43: 2020843803
+      cave_tileset_44: -1351648478
+      cave_tileset_45: -1965021847
+      cave_tileset_46: 1262257424
+      cave_tileset_47: 206118711
+      cave_tileset_48: 982574633
+      cave_tileset_49: 1966750196
+      cave_tileset_5: -125583082
+      cave_tileset_50: -18472218
+      cave_tileset_51: 426670455
+      cave_tileset_52: -1921737160
+      cave_tileset_53: 105387764
+      cave_tileset_54: -842478195
+      cave_tileset_55: -985223488
+      cave_tileset_56: -2088580229
+      cave_tileset_57: -24981235
+      cave_tileset_58: -1643145584
+      cave_tileset_59: 762251993
+      cave_tileset_6: 29278262
+      cave_tileset_60: 1993534942
+      cave_tileset_61: -304344847
+      cave_tileset_62: 1523292302
+      cave_tileset_63: 1610314133
+      cave_tileset_64: 1384263043
+      cave_tileset_65: 2139446616
+      cave_tileset_66: 1777627317
+      cave_tileset_67: -534873228
+      cave_tileset_68: -959175759
+      cave_tileset_69: -2055485799
+      cave_tileset_7: -886348101
+      cave_tileset_70: 2092111333
+      cave_tileset_71: 1347294409
+      cave_tileset_72: -1080887600
+      cave_tileset_73: 1493163821
+      cave_tileset_74: -788138850
+      cave_tileset_75: 1849717572
+      cave_tileset_76: 1366367464
+      cave_tileset_77: -1928310362
+      cave_tileset_78: -1234322988
+      cave_tileset_79: -1093129146
+      cave_tileset_8: -1690461545
+      cave_tileset_80: -882595342
+      cave_tileset_81: 922201007
+      cave_tileset_82: -1226946475
+      cave_tileset_83: -1938743872
+      cave_tileset_84: -546513573
+      cave_tileset_85: 817256147
+      cave_tileset_86: 845187818
+      cave_tileset_87: -1950287556
+      cave_tileset_88: 2052940659
+      cave_tileset_89: -935462219
+      cave_tileset_9: -1547546251
+      cave_tileset_90: -1046661602
+      cave_tileset_91: 1273064173
+      cave_tileset_92: 364076464
+      cave_tileset_93: 1701579302
+      cave_tileset_94: 1197172573
+      cave_tileset_95: 127667110
+      cave_tileset_96: -1005340068
+      cave_tileset_97: -1604516372
+      cave_tileset_98: -136448832
+      cave_tileset_99: -881837255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

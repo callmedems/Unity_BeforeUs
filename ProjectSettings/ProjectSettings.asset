@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 95bf23232693eaf4eb6332622f61997b
+  productGUID: 096e480aef6232a4bbddb8db4a0d3c63
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: BeforeUS
+  productName: Beforeus
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -595,14 +595,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: BeforeUS
+  metroPackageName: Beforeus
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: BeforeUS
+  metroApplicationDescription: Beforeus
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -673,11 +673,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: c6213a23-83e4-4d6e-b51c-fd124e165fe7
+  cloudProjectId: f1c925ac-12cf-48c4-a534-28c5c7d64380
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: BeforeUS
-  organizationId: boragirlieboo
+  projectName: Beforeus
+  organizationId: miribalo
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

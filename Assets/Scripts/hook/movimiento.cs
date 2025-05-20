@@ -22,11 +22,13 @@ public class movimiento : MonoBehaviour{
     }
 
     void Jump(){
-        if(isGrounded){
+         if(isGrounded){
             rb.linearVelocity = new Vector2(rb.linearVelocity.x,jumpForce);
             isGrounded = false;
         }
     }
+
+
     void OnCollisionEnter2D(Collision2D collision){
         if(collision.gameObject.CompareTag("suelo")){
             isGrounded= true;
@@ -34,6 +36,17 @@ public class movimiento : MonoBehaviour{
     }
 
     void FixedUpdate(){
-        rb.linearVelocity = new Vector2(moveInput.x * speed,rb.linearVelocity.y);
+        if (!GrappleActivo()){
+            rb.linearVelocity = new Vector2(moveInput.x * speed,rb.linearVelocity.y);
+        } 
     }
+    bool GrappleActivo(){
+        // Cambia "Grapple" si tu clase del hook se llama distinto
+        Grapple g = GetComponent<Grapple>();
+        return g != null && g.isGrappling;
+    }
+
+
+
+
 }

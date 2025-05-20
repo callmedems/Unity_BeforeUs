@@ -16,7 +16,7 @@ public class movimiento : MonoBehaviour{
     // Update is called once per frame
     void Update(){
         moveInput.x = Input.GetAxis("Horizontal");
-        if(Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)){
+        if(Input.GetKeyDown(KeyCode.Space)){
             Jump();
         }
     }

@@ -28,6 +28,5 @@ public class DisparoEnemigo : MonoBehaviour
         float direccion = Mathf.Sign(transform.localScale.x); // derecha = 1, izquierda = -1
         bala.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(direccion * velocidad, 0);
 
-        Debug.Log("Disparo lanzado en dirección: " + direccion);
     }
 }

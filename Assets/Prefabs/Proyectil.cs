@@ -6,7 +6,7 @@ public class Proyectil : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Colisión con: " + collision.name); // Solo imprime
+        
 
     if (collision.CompareTag("Player"))
             {

@@ -17,15 +17,12 @@ public class EnemyMovement : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("Posición actual: " + transform.position.x);
-        Debug.Log("PuntoIzquierdo: " + puntoIzquierdo.position.x + " - PuntoDerecho: " + puntoDerecho.position.x);
 
         if (yendoDerecha)
         {
             transform.Translate(Vector2.right * velocidad * Time.deltaTime);
             if (transform.position.x >= puntoDerecho.position.x)
             {
-                Debug.Log("↩ Cambiando a izquierda");
                 yendoDerecha = false;
             }
         }
@@ -34,7 +31,6 @@ public class EnemyMovement : MonoBehaviour
             transform.Translate(Vector2.left * velocidad * Time.deltaTime);
             if (transform.position.x <= puntoIzquierdo.position.x)
             {
-                Debug.Log("➡ Cambiando a derecha");
                 yendoDerecha = true;
             }
         }

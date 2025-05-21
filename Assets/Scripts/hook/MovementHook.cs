@@ -2,7 +2,7 @@ using UnityEngine; //utiliza librerías
 
 
 
-public class movimiento : MonoBehaviour{
+public class MovementHook : MonoBehaviour{
     public float speed=5f; //habilita la velocidad, f es para flotante
     public float jumpForce = 10f; //fuerza con la que va a saltar
     private Rigidbody2D rb;

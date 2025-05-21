@@ -6,6 +6,7 @@ TagManager:
   tags:
   - TempHook
   - suelo
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -14,7 +15,7 @@ TagManager:
   - Water
   - UI
   - Grapple
-  - 
+  - Ground
   - 
   - 
   - 
@@ -48,6 +49,9 @@ TagManager:
     locked: 0
   - name: cave_grounf
     uniqueID: 4158674899
+    locked: 0
+  - name: Proyectiles
+    uniqueID: 3296423783
     locked: 0
   m_RenderingLayers:
   - Default

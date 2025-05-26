@@ -2,25 +2,37 @@ using UnityEngine;
 
 public class charactercontroller : MonoBehaviour
 {
-    public float Velocidad;
-    // Update is called once per frame
+    public float Velocidad = 5f;
+    public float FuerzaSalto = 10f;
+
+    private Rigidbody2D rb;
+    private bool enSuelo = false;
+
+    public Transform detectorSuelo;
+    public float radioDeteccion = 0.2f;
+    public LayerMask capaSuelo;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
     void Update()
     {
         procesarMovimiento();
+
+        if (Input.GetButtonDown("Jump") && enSuelo)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, FuerzaSalto);
+        }
+
+        // Detectar si está tocando el suelo
+        enSuelo = Physics2D.OverlapCircle(detectorSuelo.position, radioDeteccion, capaSuelo);
     }
 
     void procesarMovimiento()
     {
-
-         //logica de momiviento
-
-    float InputMovimiento = Input.GetAxis("Horizontal");
-    Rigidbody2D rigidbody = GetComponent < Rigidbody2D >();
-
-    rigidbody.linearVelocity = new Vector2(InputMovimiento* Velocidad, rigidbody.linearVelocity.y);
-
+        float InputMovimiento = Input.GetAxis("Horizontal");
+        rb.linearVelocity = new Vector2(InputMovimiento * Velocidad, rb.linearVelocity.y);
     }
-   
-    
-    
 }
